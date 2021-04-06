@@ -28,3 +28,5 @@ Realizar un deploy mediante el hosting de firebase para una página web base.
 * firebase deploy
 
 * Nos arroja un enlace: Hosting URL: https://fire-javascriptv1.web.app
+
+* Para futuros commits borrar: (- run: npm ci && npm run build) de los dos archivos de .github
